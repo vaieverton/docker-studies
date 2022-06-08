@@ -1,7 +1,7 @@
 {
     "name": "server",
     "version": "1.0.0",
-    "description": "Node app in version 12 to docker",
+    "description": "Node app to docker",
     "main": "src/index.js",
     "scripts": {
         "start": "node src/index.js",
